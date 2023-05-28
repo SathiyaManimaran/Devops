@@ -10,6 +10,7 @@ public class sample
 			System.out.println("hellow world");
 			System.out.println("happy");
 			System.out.println("test1");
+			System.out.println("merged");
 		}
 }
 
