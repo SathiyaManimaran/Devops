@@ -9,7 +9,7 @@ public class sample
                         System.out.println("testing successful");
 			System.out.println("hellow world");
 			System.out.println("happy");
-			System.out.println("test");
+			System.out.println("test1");
 		}
 }
 
